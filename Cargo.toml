@@ -8,6 +8,5 @@ edition = "2018"
 
 [dependencies]
 diesel = { version = "1.4.5", features = ["postgres"]}
-diesel_codegen = {version = "1.16.1", features = ["postgres"]}
 dotenv = "0.15.0"
 
